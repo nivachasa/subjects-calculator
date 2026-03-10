@@ -119,8 +119,13 @@ def main():
     print("Listado de materias:", materias) 
     print("Listado de calificaciones:", calificaciones)
     print("\n")
-    
+
     mostrar_resumen(materias, calificaciones)
+    
+    print("\n╔════════════════════════════════════════════╗")
+    print("║  ¡Gracias por usar la calculadora!👋       ║")
+    print("║  ¡Éxito en tus estudios! 📚                ║")
+    print("╚════════════════════════════════════════════╝\n")
 
 
 
